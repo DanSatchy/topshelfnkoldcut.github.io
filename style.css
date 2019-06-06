@@ -1,0 +1,42 @@
+body,
+html {
+  width: 100%;
+  height: 100%;
+}
+
+h2 {
+	text-align: center;
+	position: relative;
+	bottom: 30px;
+}
+
+body {
+  font-family: 'Lato', sans-serif;
+}
+
+.btn-primary {
+  color: #fff;
+  background-color: #007bff;
+  border-radius: 35px;
+  border: 2px solid rgba(0, 70, 147,);
+  }
+
+.btn-primary:hover {
+  color: rgb(255, 208, 45);
+  cursor: pointer;
+}
+
+
+div {
+  	display: flex;
+  	justify-content: center;
+  	position: relative;
+  	top: 151px;
+  	
+  }
+
+body {
+	background-image: url(lando.jpg);
+	background-size: cover
+
+
